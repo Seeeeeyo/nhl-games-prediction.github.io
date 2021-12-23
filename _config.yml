@@ -55,8 +55,8 @@ title:               IFT6758 Project
 tagline:             'A blog about an NHL data analysis'
 description:          'A detailed report about the data analysis made over the last 5 NHL seasons. Made by <a href="https://github.com/J-bytes" target="_blank">Jonathan Beaulieu-Edmond</a>,  <a href="https://github.com/baril-jf" target="_blank">Jean-François Baril</a> and <a href="https://github.com/Seeeeeyo" target="_blank">Selim Gilon</a>.'
 domain: hockeygamespredictions.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://hockeygamespredictions.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /IFT6758_PROJET/ift6758-blog-main/      # place folder name if the site is served in a subfolder
+url: Seeeeeyo.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /nhl-games-prediction.github.io # place folder name if the site is served in a subfolder
 paginate:            5
 permalink:           pretty
 
