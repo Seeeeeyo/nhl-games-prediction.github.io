@@ -5,7 +5,7 @@ description:          'A detailed report about the data analysis made over the l
 domain: Seeeeeyo.github.io
 url: https://Seeeeeyo.github.io
 baseurl: /nhl-games-prediction.github.io/
-paginate:            5
+paginate:            1
 permalink:           pretty
 
 # About/contact
